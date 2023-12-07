@@ -9,4 +9,5 @@ To launch the project locally:
 ## Instructions
 
 Use the W, A, S and D keys to move the snake.
+
 Eat the letter O to make the serpeinte grow.
